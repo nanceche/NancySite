@@ -15,9 +15,10 @@ li {
 .intro {
   font-size: 82px;
   font-weight: bolder;
-  border: 2px solid white;
-  margin-top: 25%;
+  /* border: 2px solid white; */
+  margin-top: 17%;
   justify-content: center;
+  text-align: center;
 }
 
 header:hover {
