@@ -19,3 +19,11 @@ li {
   margin-top: 25%;
   justify-content: center;
 }
+
+header:hover {
+  background-color: whitesmoke;
+  color: black;
+}
+li:hover {
+  text-decoration: underline;
+}
