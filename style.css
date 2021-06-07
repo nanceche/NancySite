@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+  color: whitesmoke;
+  font-family: "Poppins", sans-serif;
+}
+header {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+li {
+  list-style-type: none;
+}
+
+.intro {
+  font-size: 82px;
+  font-weight: bolder;
+  border: 2px solid white;
+  margin-top: 25%;
+  justify-content: center;
+}
